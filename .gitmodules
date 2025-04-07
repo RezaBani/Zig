@@ -1,0 +1,12 @@
+[submodule "zig_001_helloworld"]
+	path = zig_001_helloworld
+	url = https://github.com/RezaBani/zig_001_helloworld
+[submodule "zig_002_password_generator"]
+	path = zig_002_password_generator
+	url = https://github.com/RezaBani/zig_002_password_generator
+[submodule "zig_003_random_float_raw_data"]
+	path = zig_003_random_float_raw_data
+	url = https://github.com/RezaBani/zig_003_random_float_raw_data
+[submodule "zig_004_random_number_generator"]
+	path = zig_004_random_number_generator
+	url = https://github.com/RezaBani/zig_004_random_number_generator
